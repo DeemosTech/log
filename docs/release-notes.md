@@ -8,10 +8,6 @@
 
 - **Remix**: Generate stylized imagery through prompt-based synthesis.
 
-**2025-05-06**
-
-- **Anniversary Sale Launch**: Released 1-Year celebration campaign with exclusive offers.
-
 **2025-04-23**
 
 - **Generation Mode Expansion**: Introduced Focal, Zero, and Speedy preset modes.
