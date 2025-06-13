@@ -1,5 +1,13 @@
 # **What's New**
 
+**2025-06-09**
+
+- **Remix Gen**: Upgraded multi-image fusion synthesis with enhanced cross-composition controls.
+- 
+**2025-06-07**
+
+- **Blender Plugin**: Enabled one-click model transfer from Blender to Rodin generation pipeline.
+
 **2025-05-20**
 
 - **Rodin Update Log**: Added version history tracker for viewing Rodin-related changelogs.
