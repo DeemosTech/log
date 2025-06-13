@@ -1,6 +1,6 @@
 # Rodin Gen-1 Release Notes
 
-### Rodin Gen-1.5 RLHF
+- ### Rodin Gen-1.5 RLHF
 - **Date:** April 23, 2025
 - **Updates:** Introduced three generation modes (Focal/Zero/Speedy).
 
