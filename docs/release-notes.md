@@ -1,5 +1,8 @@
 # **What's New**
 
+**2025-07-03**
+- **New Design**: Enhanced visual experience in preparation for Gen-2.
+
 **2025-06-09**
 
 - **Remix Gen**: Upgraded multi-image fusion synthesis with enhanced cross-composition controls.
