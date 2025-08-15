@@ -1,5 +1,8 @@
 # **What's New**
 
+**2025-07-15**
+- **Pro Refine**: In-house artists enhance mesh fidelity using state-of-the-art internal AI tools.
+
 **2025-07-03**
 - **New Design**: Enhanced visual experience in preparation for Gen-2.
 
@@ -206,3 +209,4 @@
 **2024-06-01**
 
 - **Rodin Official Release**: Launched the official release of Rodin.
+
