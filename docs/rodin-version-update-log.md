@@ -1,5 +1,9 @@
 # Rodin Model Release Notes
 
+- ### Gen-2 (Foundation Model Early Access)
+- **Date:** August 5, 2025
+- **Updates:** Our most advanced model to date, delivering unparalleled detail.
+
 - ### Rodin Gen-1.5 RLHF
 - **Date:** April 23, 2025
 - **Updates:** Introduced three generation modes (Focal/Zero/Speedy).
@@ -23,3 +27,4 @@
 - ### Rodin Gen-1
 - **Date:** June 1, 2024
 - **Highlights:** First launch of Rodin.
+
