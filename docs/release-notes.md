@@ -1,5 +1,13 @@
 # **What's New**
 
+**2025-09-05**
+- **Nav Animation**: Added mouse-following animation effect for navigation.
+- **Generating Tips**: Introduced generation tips for improved usability.
+- **UE Plugin**: Added support for Unreal Engine integration.
+- **Remix**：
+  - Added free high-quality image generation model gemini-2.5-nano.
+  - Enabled Remix functionality on mobile devices.
+    
 **2025-07-15**
 - **Pro Refine**: In-house artists enhance mesh fidelity using state-of-the-art internal AI tools.
 
@@ -209,4 +217,5 @@
 **2024-06-01**
 
 - **Rodin Official Release**: Launched the official release of Rodin.
+
 
