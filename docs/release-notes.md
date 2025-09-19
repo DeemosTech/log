@@ -1,5 +1,9 @@
 # **What's New**
 
+**2025-09-19**
+- **Bang to Parts**: Enabled model explosion into multiple independent parts.
+- **Texture Fixing**: Added texture repair functionality, currently supports shaded texture correction.
+
 **2025-09-05**
 - **Nav Animation**: Added mouse-following animation effect for navigation.
 - **Generating Tips**: Introduced generation tips for improved usability.
@@ -217,5 +221,6 @@
 **2024-06-01**
 
 - **Rodin Official Release**: Launched the official release of Rodin.
+
 
 
