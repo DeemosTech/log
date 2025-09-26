@@ -1,5 +1,8 @@
 # **What's New**
 
+**2025-09-26**
+- **Bang to Parts**: New feature officially launched, enabling models to be exploded into multiple independent parts.
+
 **2025-09-19**
 - **Bang to Parts**: Enabled model explosion into multiple independent parts.
 - **Texture Fixing**: Added texture repair functionality, currently supports shaded texture correction.
@@ -221,6 +224,7 @@
 **2024-06-01**
 
 - **Rodin Official Release**: Launched the official release of Rodin.
+
 
 
 
