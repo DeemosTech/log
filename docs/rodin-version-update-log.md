@@ -1,8 +1,8 @@
 # Rodin Model Release Notes
 
-- ### Rodin Gen-2 (Foundation Model Early Access)
+- ### Rodin Gen-2
 - **Date:** August 5, 2025
-- **Updates:** Our most advanced model to date, delivering unparalleled detail.
+- **Updates:** Rodin Gen-2 leveraging massive scale in data and parameters to deliver 4X improved mesh quality, recursive part generation, baking of high-poly meshes to low-poly with normals, and HD textures in beta.
 
 - ### Rodin Gen-1.5 RLHF
 - **Date:** April 23, 2025
@@ -27,5 +27,6 @@
 - ### Rodin Gen-1
 - **Date:** June 1, 2024
 - **Highlights:** First launch of Rodin.
+
 
 
