@@ -1,5 +1,10 @@
 # **What's New**
 
+**2025-10-17**
+- **Image Enhancer**: Introduced AI-powered image enhancement feature in Omnicraft.
+- **Rodin DCC Bridge (Add-on)**: Comprehensive integration with Blender, Maya, Unreal, Unity, Godot, and C4D, enabling seamless model transfer across all major DCC tools.
+- **Pay in Crypto:** Added cryptocurrency payment option.
+
 **2025-09-26**
 - **Bang to Parts**: New feature officially launched, enabling models to be exploded into multiple independent parts.
 
@@ -224,6 +229,7 @@
 **2024-06-01**
 
 - **Rodin Official Release**: Launched the official release of Rodin.
+
 
 
 
