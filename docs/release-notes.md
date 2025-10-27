@@ -1,5 +1,8 @@
 # **What's New**
 
+**2025-10-25**
+- **Partial Redo**: Added the ability to redo selected regions of a model for precise local edits without regenerating the entire model.
+
 **2025-10-17**
 - **Image Enhancer**: Introduced AI-powered image enhancement feature in Omnicraft.
 - **Rodin DCC Bridge (Add-on)**: Comprehensive integration with Blender, Maya, Unreal, Unity, Godot, and C4D, enabling seamless model transfer across all major DCC tools.
@@ -229,6 +232,7 @@
 **2024-06-01**
 
 - **Rodin Official Release**: Launched the official release of Rodin.
+
 
 
 
