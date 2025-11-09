@@ -1,5 +1,9 @@
 # **What's New**
 
+**2025-11-09**
+- **Homepage Optimization**: Enhanced homepage performance with virtual scrolling for smoother browsing experience.
+- **Multi-Maps Support**: Added Multi-Maps functionality for Bang-generated geometry assets, enabling richer material and texture control.
+
 **2025-10-25**
 - **Partial Redo**: Added the ability to redo selected regions of a model for precise local edits without regenerating the entire model.
 
@@ -232,6 +236,7 @@
 **2024-06-01**
 
 - **Rodin Official Release**: Launched the official release of Rodin.
+
 
 
 
