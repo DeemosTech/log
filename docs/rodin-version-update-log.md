@@ -1,5 +1,9 @@
 # Rodin Model Release Notes
 
+- ### Rodin Gen-2 (1120)
+- **Date:** November 20, 2025
+- **Updates:** Rodin Gen-2 (1120)  can generate much smoother surfaces with clearer model structures. The brand-new native 3D texture generation architecture makes textures truly seamless with “no dead angles.”
+  
 - ### Rodin Gen-2
 - **Date:** August 5, 2025
 - **Updates:** Rodin Gen-2 leveraging massive scale in data and parameters to deliver 4X improved mesh quality, recursive part generation, baking of high-poly meshes to low-poly with normals, and HD textures in beta.
@@ -27,6 +31,7 @@
 - ### Rodin Gen-1
 - **Date:** June 1, 2024
 - **Highlights:** First launch of Rodin.
+
 
 
 
