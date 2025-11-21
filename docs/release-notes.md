@@ -1,5 +1,10 @@
 # **What's New**
 
+**2025-11-21**
+- **Gen-2 → Gen-2 (1120)**: Rodin Gen-2 (1120)  can generate much smoother surfaces with clearer model structures. The brand-new native 3D texture generation architecture makes textures truly seamless with “no dead angles.”
+- **ThanksGiving Promo**: Launched a limited-time Thanksgiving promotion with special discounts and bonus credits.
+- **Generative Render (Open Access):**: Released Generative Render for all users, enabling prompt-driven model videos with selectable camera motions.
+
 **2025-11-09**
 - **Homepage Optimization**: Enhanced homepage performance with virtual scrolling for smoother browsing experience.
 - **Multi-Maps Support**: Added Multi-Maps functionality for Bang-generated geometry assets, enabling richer material and texture control.
@@ -236,6 +241,7 @@
 **2024-06-01**
 
 - **Rodin Official Release**: Launched the official release of Rodin.
+
 
 
 
