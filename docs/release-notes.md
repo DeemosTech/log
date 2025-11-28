@@ -1,5 +1,8 @@
 # **What's New**
 
+**2025-11-28**
+- **Black Friday Promo**: Launched a limited-time Black Friday promotion with special discounts and bonus credits.
+
 **2025-11-21**
 - **Gen-2 → Gen-2 (1120)**: Rodin Gen-2 (1120)  can generate much smoother surfaces with clearer model structures. The brand-new native 3D texture generation architecture makes textures truly seamless with “no dead angles.”
 - **ThanksGiving Promo**: Launched a limited-time Thanksgiving promotion with special discounts and bonus credits.
@@ -241,6 +244,7 @@
 **2024-06-01**
 
 - **Rodin Official Release**: Launched the official release of Rodin.
+
 
 
 
