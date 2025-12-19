@@ -1,5 +1,8 @@
 # **What's New**
 
+**2025-12-25**
+ - **Christmas Promo**: Launched a limited-time Christmas promotion with festive discounts and bonus credits.
+
 **2025-12-05**
  - **Affiliate Program (Beta)**: Launched a grey-release of the affiliate referral system, allowing users to earn rewards from successful sign-ups and subsequent purchases made via their referral codes.
  - **Omnicraft Remix to Free**: Enabled free access to Omnicraft Remix, allowing users to perform Remix operations without additional cost.
@@ -248,6 +251,7 @@
 **2024-06-01**
 
 - **Rodin Official Release**: Launched the official release of Rodin.
+
 
 
 
