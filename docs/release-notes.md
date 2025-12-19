@@ -1,6 +1,6 @@
 # **What's New**
 
-**2025-12-25**
+**2025-12-19**
  - **Christmas Promo**: Launched a limited-time Christmas promotion with festive discounts and bonus credits.
 
 **2025-12-05**
@@ -251,6 +251,7 @@
 **2024-06-01**
 
 - **Rodin Official Release**: Launched the official release of Rodin.
+
 
 
 
