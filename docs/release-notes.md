@@ -1,5 +1,9 @@
 # **What's New**
 
+**2025-12-26**
+ - **Video Generator Now Free**: Video Generator is now free for all users.
+ - **New magic prompt**: New magic prompt: Added new “soft” presets for soft edges.
+
 **2025-12-19**
  - **Christmas Promo**: Launched a limited-time Christmas promotion with festive discounts and bonus credits.
 
@@ -251,6 +255,7 @@
 **2024-06-01**
 
 - **Rodin Official Release**: Launched the official release of Rodin.
+
 
 
 
