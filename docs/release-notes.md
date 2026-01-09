@@ -1,5 +1,9 @@
 # **What's New**
 
+**2026-01-09**
+ - **Redo Modify and Redo BANG**: Added one-click redo functionality for modify and BANG operations, enabling quick reapplication of changes.
+ - **Smart Low-poly**: Added new Smart Low-poly options for enhanced geometry processing.
+
 **2025-12-26**
  - **Video Generator Now Free**: Video Generator is now free for all users.
  - **New magic prompt**: New magic prompt: Added new “soft” presets for soft edges.
@@ -255,6 +259,7 @@
 **2024-06-01**
 
 - **Rodin Official Release**: Launched the official release of Rodin.
+
 
 
 
