@@ -1,5 +1,8 @@
 # **What's New**
 
+**2026-01-30**
+ - **Rodin DCC Bridge (Omniverse Add-on)**: Added support for NVIDIA Omniverse & Isaac Sim integration.
+
 **2026-01-09**
  - **Redo Modify and Redo BANG**: Added one-click redo functionality for modify and BANG operations, enabling quick reapplication of changes.
  - **Smart Low-poly**: Added new Smart Low-poly options for enhanced geometry processing.
@@ -259,6 +262,7 @@
 **2024-06-01**
 
 - **Rodin Official Release**: Launched the official release of Rodin.
+
 
 
 
