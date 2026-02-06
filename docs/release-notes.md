@@ -1,5 +1,9 @@
 # **What's New**
 
+**2026-02-06**
+ - **Image Generator**: Introduced a new Image Generator, enabling high-quality image creation directly within the platform.
+ - **Homepage Upload & Wallet Enhancement**: Optimized drag-and-drop upload experience on the homepage and integrated wallet balance display for improved usability.
+
 **2026-01-30**
  - **Rodin DCC Bridge (Omniverse Add-on)**: Added support for NVIDIA Omniverse & Isaac Sim integration.
 
@@ -262,6 +266,7 @@
 **2024-06-01**
 
 - **Rodin Official Release**: Launched the official release of Rodin.
+
 
 
 
