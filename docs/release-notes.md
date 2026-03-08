@@ -1,5 +1,11 @@
 # **What's New**
 
+**2026-03-08**
+ - **Delight Options (Texturing Stage)**: Added new Delight options to provide greater control during the texturing stage.
+ - **Video SD 4.5 Model**: Added support for the Video SD 4.5 model to enhance video generation capabilities.
+ - **Group Permissions & Wallet Update**: Updated Group user permissions and improved the Group wallet interface.
+ - **Subscription Page Optimization**: Refined the subscription interface for a clearer and more streamlined user experience.
+
 **2026-02-27**
  - **3D Editing Refiner**: Released for enhanced precision and output control.
  - **BANG Refiner**: Released to improve refinement quality and workflow flexibility.
@@ -271,6 +277,7 @@
 **2024-06-01**
 
 - **Rodin Official Release**: Launched the official release of Rodin.
+
 
 
 
