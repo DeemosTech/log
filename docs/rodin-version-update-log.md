@@ -1,8 +1,12 @@
 # Rodin Model Release Notes
 
+- ### Rodin Gen-2 Edit
+- **Date:** January 26, 2026
+- **Updates:** Rodin Gen-2 Edit  brings a major upgrade to the Edit pipeline, delivering more accurate and reliable model adjustments.   
+  
 - ### Rodin Gen-2 (1120)
 - **Date:** November 20, 2025
-- **Updates:** Rodin Gen-2 (1120)  can generate much smoother surfaces with clearer model structures. The brand-new native 3D texture generation architecture makes textures truly seamless with “no dead angles.”
+- **Updates:** Rodin Gen-2 (1120)  can generate much smoother surfaces with clearer model structures. The brand-new native 3D texture generation architecture makes textures truly seamless with “no dead angles.
   
 - ### Rodin Gen-2
 - **Date:** August 5, 2025
