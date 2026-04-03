@@ -1,5 +1,8 @@
 # **What's New**
 
+**2026-04-03**
+ - **Rodin DCC Bridge (3ds Max Add-on)**: Added support for Autodesk 3ds Max integration.
+
 **2026-03-08**
  - **Delight Options (Texturing Stage)**: Added new Delight options to provide greater control during the texturing stage.
  - **Video SD 4.5 Model**: Added support for the Video SD 4.5 model to enhance video generation capabilities.
