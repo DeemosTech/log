@@ -1,5 +1,9 @@
 # **What's New**
 
+**2026-04-11**
+ - **Edit Rotate (Upload Stage)**: Added view rotation support during model upload and generation for improved control over input orientation. 
+ - **Seedance 2.0 Models (Video Generation)**: Added support for Seedance 2.0 and Seedance 2.0 Fast models.
+
 **2026-04-03**
  - **Rodin DCC Bridge (3ds Max Add-on)**: Added support for Autodesk 3ds Max integration.
 
