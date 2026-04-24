@@ -1,5 +1,9 @@
 # **What's New**
 
+**2026-04-24**
+ - **Seedance 1.5 Model & Reference Generation (Video Generation):** Added support for the Seedance 1.5 model and reference-based generation to expand video creation workflows.
+ - **Auto Bounding Box Detection (Geometry Edit Mode):** Added automatic bounding box detection in Geometry Edit mode for more efficient and precise editing.
+
 **2026-04-11**
  - **Edit Rotate (Upload Stage)**: Added view rotation support during model upload and generation for improved control over input orientation. 
  - **Seedance 2.0 Models (Video Generation)**: Added support for Seedance 2.0 and Seedance 2.0 Fast models.
