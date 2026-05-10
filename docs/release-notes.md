@@ -1,5 +1,10 @@
 # **What's New**
 
+**2026-05-10**
+ - **GPT-image-2 (Image Generation)**: Added support for GPT-image-2 for high-quality image generation.
+ - **Texture Zoom Preview**: Added zoom-in preview for textures to inspect details.
+ - **Progress Resume & Instant Card Loading**: Added progress resume and instant card loading for smoother workflow.
+
 **2026-04-24**
  - **Seedance 1.5 Model & Reference Generation (Video Generation):** Added support for the Seedance 1.5 model and reference-based generation to expand video creation workflows.
  - **Auto Bounding Box Detection (Geometry Edit Mode):** Added automatic bounding box detection in Geometry Edit mode for more efficient and precise editing.
