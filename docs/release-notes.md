@@ -1,5 +1,8 @@
 # **What's New**
 
+**2026-05-15**
+ - **Manual BANG to Parts (Geometry Stage)**: Added manual BANG-to-parts controls for precise geometry segmentation and part-level editing. Available for Gen-2.5 only.
+
 **2026-05-10**
  - **GPT-image-2 (Image Generation)**: Added support for GPT-image-2 for high-quality image generation.
  - **Texture Zoom Preview**: Added zoom-in preview for textures to inspect details.
