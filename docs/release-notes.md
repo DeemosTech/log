@@ -1,5 +1,8 @@
 # **What's New**
 
+**2026-05-24**
+ - **Alpha Button on Image Upload**: Added an Alpha button when uploading images for easier access to alpha-related controls.
+
 **2026-05-15**
  - **Manual BANG to Parts (Geometry Stage)**: Added manual BANG-to-parts controls for precise geometry segmentation and part-level editing. Available for Gen-2.5 only.
 
