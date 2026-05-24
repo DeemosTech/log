@@ -1,5 +1,9 @@
 # Rodin Model Release Notes
 
+- ### Rodin Gen-2.5
+- **Date:** May 24, 2026
+- **Updates:** Rodin Gen-2.5 introduces Manual BANG to Parts for flexible part splitting, Part Refine for local detail enhancement, batch generation of up to 10 results, adaptive thinking effort, and improved high-detail generation with more complete 3D-native textures.
+  
 - ### Rodin Gen-2 Edit
 - **Date:** January 26, 2026
 - **Updates:** Rodin Gen-2 Edit  brings a major upgrade to the Edit pipeline, delivering more accurate and reliable model adjustments.   
