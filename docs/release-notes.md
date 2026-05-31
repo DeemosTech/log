@@ -1,5 +1,9 @@
 # **What's New**
 
+**2026-06-01**
+ - **Texture Viewer:** Added a dedicated texture viewing feature for faster, more efficient inspection of material details.
+ - **New Header & Navigation:** Introduced a redesigned header and navigation structure to improve information hierarchy and streamline navigation.
+
 **2026-05-24**
  - **Alpha Button on Image Upload**: Added an Alpha button when uploading images for easier access to alpha-related controls.
 
