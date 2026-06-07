@@ -1,5 +1,8 @@
 # **What's New**
 
+**2026-06-07**
+ - **12K Textures (Beta):** Added 12K texture support in Beta for higher-resolution material detail.
+
 **2026-06-01**
  - **Texture Viewer:** Added a dedicated texture viewing feature for faster, more efficient inspection of material details.
  - **New Header & Navigation:** Introduced a redesigned header and navigation structure to improve information hierarchy and streamline navigation.
