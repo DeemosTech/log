@@ -1,5 +1,8 @@
 # **What's New**
 
+**2026-06-16**
+ - **Group Manager:** Added Group Manager for easier organization and management of groups.
+
 **2026-06-07**
  - **12K Textures (Beta):** Added 12K texture support in Beta for higher-resolution material detail.
 
