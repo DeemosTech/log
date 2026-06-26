@@ -1,5 +1,9 @@
 # **What's New**
 
+**2026-06-26**
+ - **Pack 3MF Download:** Added 3MF download support for color-quantized results in the Pack panel.
+ - **Rodin DCC Bridge:** Updated the plugin to support Gen-2.5.
+
 **2026-06-16**
  - **Group Manager:** Added Group Manager for easier organization and management of groups.
 
