@@ -1,5 +1,9 @@
 # Rodin Model Release Notes
 
+- ### Rodin Gen-2.5 (0702)
+- **Date:** July 2, 2026
+- **Updates:** Rodin Gen-2.5 (0702) further improves the fundamental 3D representation, delivering better results on common categories such as characters, weapons, and vehicles. In particular, the “Thinking Effort High” tier has been significantly enhanced.
+
 - ### Rodin Gen-2.5
 - **Date:** May 24, 2026
 - **Updates:** Rodin Gen-2.5 introduces Manual BANG to Parts for flexible part splitting, Part Refine for local detail enhancement, batch generation of up to 10 results, adaptive thinking effort, and improved high-detail generation with more complete 3D-native textures.
