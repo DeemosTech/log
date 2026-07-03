@@ -1,5 +1,8 @@
 # **What's New**
 
+**2026-07-03**
+ - **Emissive & Bloom (Texture Stage):** Added emissive and Bloom effects in the Texture Stage for richer material previews.
+
 **2026-06-26**
  - **Pack 3MF Download:** Added 3MF download support for color-quantized results in the Pack panel.
  - **Rodin DCC Bridge:** Updated the plugin to support Gen-2.5.
