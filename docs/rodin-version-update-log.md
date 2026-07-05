@@ -2,7 +2,7 @@
 
 - ### Rodin Gen-2.5 (0702)
 - **Date:** July 2, 2026
-- **Updates:** Rodin Gen-2.5 (0702) further improves the fundamental 3D representation, delivering better results on common categories such as characters, weapons, and vehicles. In particular, the “Thinking Effort High” tier has been significantly enhanced.
+- **Updates:** Rodin Gen-2.5 (0702) further improves the fundamental 3D representation, delivering better results on common categories such as characters, weapons, and vehicles. In particular, the “Thinking Effort High” tier has been significantly enhanced. In addition, support for 8K textures has been introduced and is now available to all users.
 
 - ### Rodin Gen-2.5
 - **Date:** May 24, 2026
