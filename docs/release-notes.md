@@ -1,5 +1,9 @@
 # **What's New**
 
+**2026-07-20**
+ - **HD / 8K Texture Options**: Added HD and 8K toggle options in the Texture panel, with full support for the corresponding generation workflows.
+ - **Rodin DCC Bridge (UE Add-on)**: Added macOS support for the UE  Add-on, enabling the Add-on to run on Mac devices.
+
 **2026-07-03**
  - **Emissive & Bloom (Texture Stage):** Added emissive and Bloom effects in the Texture Stage for richer material previews.
 
