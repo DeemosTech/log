@@ -1,5 +1,10 @@
 # **What's New**
 
+**2026-07-31**
+ - **Rodin Immersive Workspace**: Introduced a redesigned full-screen workspace UI for a more focused creation experience.
+ - **Partial Redo (Texture Stage)**: Added Partial Redo support in the Texture Stage for more flexible iteration.
+ - **API Usage Export**: Added time-range-based usage data export in the API panel.
+
 **2026-07-20**
  - **HD / 8K Texture Options**: Added HD and 8K toggle options in the Texture panel, with full support for the corresponding generation workflows.
  - **Rodin DCC Bridge (UE Add-on)**: Added macOS support for the UE  Add-on, enabling the Add-on to run on Mac devices.
