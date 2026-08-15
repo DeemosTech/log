@@ -1,5 +1,9 @@
 # **What's New**
 
+**2026-08-15**
+ - **WorldGen (Beta)**: Introduced WorldGen in private beta.
+ - **API Documentation**: Updated the API documentation URL.
+
 **2026-07-31**
  - **Rodin Immersive Workspace**: Introduced a redesigned full-screen workspace UI for a more focused creation experience.
  - **Partial Redo (Texture Stage)**: Added Partial Redo support in the Texture Stage for more flexible iteration.
