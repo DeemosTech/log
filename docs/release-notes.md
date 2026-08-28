@@ -1,5 +1,11 @@
 # **What's New**
 
+**2026-08-29**
+ - **Voxel ControlNet Parameters (Gen-2.5)**: Added parameter configuration support for Voxel ControlNet in Gen-2.5, enabling more precise control over geometry generation.
+ - **Seedance 2.5 Model (Video Generation)**: Added support for the Seedance 2.5 model to expand video generation options.
+ - **AI Segmentation for Manual BANG**: Added AI-powered segmentation support for manually created BANGs, enabling faster and more flexible part separation.
+ - **WorldGen Full Release**: Fully rolled out WorldGen to all users, with new camera motion controls and export capabilities.
+
 **2026-08-15**
  - **WorldGen (Beta)**: Introduced WorldGen in private beta.
  - **API Documentation**: Updated the API documentation URL.
