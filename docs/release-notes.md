@@ -1,5 +1,10 @@
 # **What's New**
 
+**2026-09-13**
+ - **Codex MCP Integration**: Added frontend support for Codex MCP.
+ - **Mobile Full-Screen Mode**: Added full-screen support for mobile devices.
+ - **WorldGen Updates**: Added Undo/Redo, a video guide, Transform Scale mode, and camera motion shortcuts. Improved the download workflow.
+
 **2026-08-29**
  - **Voxel ControlNet Parameters (Gen-2.5)**: Added parameter configuration support for Voxel ControlNet in Gen-2.5, enabling more precise control over geometry generation.
  - **Seedance 2.5 Model (Video Generation)**: Added support for the Seedance 2.5 model to expand video generation options.
