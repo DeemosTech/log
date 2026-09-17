@@ -1,8 +1,8 @@
 # Rodin Model Release Notes
 
-- ### Rodin Gen-2.5 (0913)
+- ### Rodin Gen-2.5 Agent-Ready
 - **Date:** September 13, 2026
-- **Updates:** Rodin Gen-2.5 (0913) introduces a second-generation 3D-native texture architecture for finer material detail, enhanced 8K/12K texture support, and initial Partial Redo capabilities. It also strengthens the foundation model with full support for agent-ready workflows.
+- **Updates:** Rodin Gen-2.5 Agent-Ready introduces a second-generation 3D-native texture architecture for finer material detail, enhanced 8K/12K texture support, and initial Partial Redo capabilities. It also strengthens the foundation model with full support for agent-ready workflows.
 
 - ### Rodin Gen-2.5 (0702)
 - **Date:** July 2, 2026
