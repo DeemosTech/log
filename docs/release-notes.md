@@ -1,5 +1,10 @@
 # **What's New**
 
+**2026-09-24**
+- **Agentic Mode**: Introduced Agentic mode for 3D generation.
+- **Hyper3D CLI**: Introduced a command-line interface for Hyper3D.
+- **Rodin DCC Bridge (ZBrush Add-on)**: Added support for ZBrush integration.
+
 **2026-09-13**
  - **Codex MCP Integration**: Added frontend support for Codex MCP.
  - **Mobile Full-Screen Mode**: Added full-screen support for mobile devices.
