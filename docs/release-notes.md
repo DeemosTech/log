@@ -1,5 +1,8 @@
 # **What's New**
 
+**2026-10-12**
+- **Smart UV (Texture Stage)**: Added Smart UV support in the Texture Stage.
+
 **2026-09-24**
 - **Agentic Mode**: Introduced Agentic mode for 3D generation.
 - **Hyper3D CLI**: Introduced a command-line interface for Hyper3D.
