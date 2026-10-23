@@ -1,5 +1,8 @@
 # **What's New**
 
+**2026-10-23**
+- **Rigging**: Added rigging support for 3D models.
+
 **2026-10-12**
 - **Smart UV (Texture Stage)**: Added Smart UV support in the Texture Stage.
 
