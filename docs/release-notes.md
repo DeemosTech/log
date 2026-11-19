@@ -1,15 +1,21 @@
 # **What's New**
 
+**2026-11-19**
+ - **3D Printing Workspace**: Improved structure editing and added slot editing.
+ - **Black Friday Promo**: Launched the Black Friday promotion.
+ - **Rigging Export & Mobile Agent**: Added skeleton type options for export and an Agent entry point on mobile.
+ - **Cloud Animations**: Added support for cloud animation upload and selection.
+
 **2026-10-23**
-- **Rigging**: Added rigging support for 3D models.
+ - **Rigging**: Added rigging support for 3D models.
 
 **2026-10-12**
-- **Smart UV (Texture Stage)**: Added Smart UV support in the Texture Stage.
+ - **Smart UV (Texture Stage)**: Added Smart UV support in the Texture Stage.
 
 **2026-09-24**
-- **Agentic Mode**: Introduced Agentic mode for 3D generation.
-- **Hyper3D CLI**: Introduced a command-line interface for Hyper3D.
-- **Rodin DCC Bridge (ZBrush Add-on)**: Added support for ZBrush integration.
+ - **Agentic Mode**: Introduced Agentic mode for 3D generation.
+ - **Hyper3D CLI**: Introduced a command-line interface for Hyper3D.
+ - **Rodin DCC Bridge (ZBrush Add-on)**: Added support for ZBrush integration.
 
 **2026-09-13**
  - **Codex MCP Integration**: Added frontend support for Codex MCP.
